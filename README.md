@@ -1,4 +1,4 @@
-# <img src="[https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Calculator.png](https://bluemoji.io/cdn-proxy/646218c67da47160c64a84d5/646347e2ee62367430328e45_70.png)" alt="Calculator" width="40" /> ByteGrade
+# <img src="[[https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Calculator.png](https://bluemoji.io/cdn-proxy/646218c67da47160c64a84d5/646347e2ee62367430328e45_70.png)](https://bluemoji.io/cdn-proxy/646218c67da47160c64a84d5/646347e2ee62367430328e45_70.png)" alt="Calculator" width="40" /> ByteGrade
 ### "Precision coding for the ByteSized scholar."
 
 <p align="center">
